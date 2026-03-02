@@ -1,5 +1,5 @@
 # apnacollege-demo
 this is my first repo for learning in apna college.
-<b>
+<br>
 Auther: Atharv Jadhav
 
